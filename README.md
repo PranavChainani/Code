@@ -7,5 +7,5 @@ A curated showcase of my projects from Electrical &amp; Computer Engineering and
 ## Archive
 - [Linked List Utilities](./archive/linked-list-utilities) — C project implementing linked list operations and file-driven tests
 
-- [USB HID Controlled LED System](./archive/usb-hid-leds) — Embedded firmware mapping HID events to LED outputs ([Lab PDF](./archive/usb-hid-leds/ECEN121-Lab7.pdf))
+- [USB HID Controlled LED System](./archive/usb-hid-leds) — Embedded firmware mapping HID events to LED outputs ([Lab PDF](./archive/USB HID Controlled LED System.pdf))
 
