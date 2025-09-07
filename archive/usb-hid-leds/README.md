@@ -2,17 +2,16 @@
 
 **Stack:** C • Embedded Systems (USB Host HID)  
 
-**What it is:**  
-Firmware that connects a USB mouse/keyboard to an embedded board and maps user actions to LED outputs:  
-- Mouse movement controls LED positions.  
-- Mouse button clicks change LED colors (red, purple, green, or cycle).  
-- Keyboard inputs toggle indicator LEDs.  
+**Summary:**  
+Firmware project using a USB mouse/keyboard to control LED outputs on an embedded board.  
+- Mouse movement moved LED positions.  
+- Mouse button clicks changed LED colors.  
+- Keyboard inputs toggled board LEDs.  
 
 **What I learned:**  
-- Parsing USB HID reports (`USBH_HID_GetMouseInfo`).  
-- Managing multiple USB pipes and host/device states.  
-- Integrating hardware input with LED feedback loops.  
-- Debugging embedded USB host stacks.  
+- How to parse USB HID reports and track device state.  
+- Mapping hardware inputs to user-visible outputs.  
+- Debugging and working with USB host drivers.  
 
-**Why it matters (PM lens):**  
-Shows how low-level USB drivers translate into interactive user experiences. Demonstrates tradeoffs between protocol complexity and real-time responsiveness.
+**Note:** Only the lab PDF write-up is included here — code was run on lab hardware and is not available.
+
