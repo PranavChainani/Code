@@ -4,3 +4,5 @@ A curated showcase of my projects from Electrical &amp; Computer Engineering and
 ## Highlights
 - [Student Record Management System](./highlights/student-record-management) — C project comparing arrays vs hash tables for fast record handling (age search, ID lookup, max age gap)
 
+## Archive
+- [Linked List Utilities](./archive/linked-list-utilities) — C project implementing linked list operations and file-driven tests
